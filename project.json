@@ -1,0 +1,27 @@
+{
+  "overview": "ZOON is a cyberpunk-themed 3D character scene and video prompt generator. Pick heroes, vehicles, animals, and worlds, then build cinematic AI image or video prompts with full style controls.",
+  "features": [
+    "Tabbed navigation: Heroes, Rides, Animals, Worlds, Scene, Veo 3",
+    "Character grid with category filter and glow/spin selection effects",
+    "Vehicle and animal companion selection",
+    "World background picker with gradient previews",
+    "Scene builder with render style, lighting, pose, and expression options",
+    "Video prompt builder with camera moves, motion styles, duration, and ratio",
+    "Animated progress bar during video prompt generation",
+    "Copy-to-clipboard for all generated prompts",
+    "Cyberpunk UI with floating particles, grid overlay, and shimmer text",
+    "Fully responsive dark design with Orbitron font"
+  ],
+  "category": "creative-tools",
+  "tags": [
+    "ai",
+    "creative",
+    "cyberpunk",
+    "3d",
+    "video",
+    "prompt-generator",
+    "characters",
+    "gaming"
+  ],
+  "last_updated": "2026-04-16T18:25:22.432Z"
+}
